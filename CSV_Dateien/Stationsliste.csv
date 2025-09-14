@@ -1,0 +1,1092 @@
+﻿Stations_id;Stationsname;geogr. Breite;geogr. Laenge;Stationshoehe;Bundesland
+61;Aiterhofen;48844306;12617053;339;Bayern
+73;Aldersbach-Kriestorf;48615918;13050637;340;Bayern
+125;Altenstadt;47834163;10866744;742;Bayern
+132;Altglashütte;49772498;12389068;750;Bayern
+142;Altomünster-Maisbrunn;48406036;11311694;5105;Bayern
+151;Amberg-Unterammersricht;49469061;11854626;3815;Bayern
+154;Amerang-Pfaffing;48019737;12292473;5155;Bayern
+175;Ansbach;49296441;10575139;413;Bayern
+177;Ansbach-Hennenbach;49315838;10581537;418;Bayern
+191;Arnstein-Müdesheim;49969403;9911391;2165;Bayern
+202;Aschaffenburg;49977088;9109099;1105;Bayern
+217;Attenkam;47877428;11364282;670;Bayern
+221;Au i.d.Hallertau-Günzenhausen;48551532;11711686;483;Bayern
+231;Augsburg (Sankt Stephan);48372348;10894805;490;Bayern
+232;Augsburg;48425292;10941681;4615;Bayern
+282;Bamberg;49874252;10920558;240;Bayern
+283;Bamberg-Altenburg;49880775;10869488;382;Bayern
+284;Bamberg (Sternwarte);4988;1088;282;Bayern
+320;Heinersreuth-Vollhof;49966617;11519843;3495;Bayern
+361;Berchtesgaden (KKst);47634447;13010919;550;Bayern
+365;Berg/Oberpfalz;49331142;11430315;421;Bayern
+502;Bischbrunn;49874669;948829;412;Bayern
+578;Böhming;48945085;1136673;379;Bayern
+606;Boos;48079043;10197712;5705;Bayern
+652;Hagenbüchach;49535314;10770607;384;Bayern
+685;Breitsol;49901666;9428099;585;Bayern
+851;Pemfling-Pitzling;4925044;12604179;3915;Bayern
+856;Chieming;47884257;12540368;5512;Bayern
+867;Lautertal-Oberlauter;50306639;10967938;3438;Bayern
+970;Dietenhofen;4941584;10673442;405;Bayern
+982;Dillingen/Donau;48570123;10498459;420;Bayern
+983;Dillingen/Donau-Fristingen;48556225;1055985;419;Bayern
+1103;Ebersberg-Halbing;48100334;11987202;5915;Bayern
+1107;Ebrach;49851954;10499124;3455;Bayern
+1154;Eiberg;48341565;12882024;470;Bayern
+1161;Eichstätt-Landershofen;48877749;1123488;384;Bayern
+1262;München-Flughafen;48347741;11813385;4455;Bayern
+1275;Ering;48300772;13139789;340;Bayern
+1279;Möhrendorf-Kleinseebach;49649749;11007464;2675;Bayern
+1280;Erlangen-Bruck;49569212;10992874;280;Bayern
+1287;Eschau-Hobbach;4985887;928612;198;Bayern
+1292;Eschenbach/Oberpfalz;49752196;11822151;470;Bayern
+1332;Falkenberg,Kr.Rottal-Inn;48483155;12724136;471;Bayern
+1357;Fichtelberg/Oberfranken-Hüttstadl;49980702;11837601;6545;Bayern
+1374;Fladungen-Heufurt;50505008;10166849;3655;Bayern
+1392;Flossenbürg;49731639;12348947;621;Bayern
+1403;Frammersbach;50061648;9454993;260;Bayern
+1473;Freystadt-Michelbach;49186949;11308043;414;Bayern
+1515;Fürstenfeldbruck;482;112667;519;Bayern
+1522;Fürth/Bayern (A);49481122;1096398;313;Bayern
+1550;Garmisch-Partenkirchen;47482989;11062126;7193;Bayern
+1586;Traunstein-Geißing;47877416;12627868;610;Bayern
+1587;Gelbelsee;48948116;11428929;536;Bayern
+1621;Geroda-Platz;50277725;991435;5525;Bayern
+1689;Gößweinstein;49765641;11306236;441;Bayern
+1721;Gräfenberg-Kasberg;4966399;11223886;5055;Bayern
+1735;Grainet-Rehberg;4878935;13629026;628;Bayern
+1832;Großer Arber;49112887;13133791;1436;Bayern
+1833;Grosser Falkenstein;49085084;13280053;1307;Bayern
+1844;Feldkirchen-Westerham-Lenzmühle;4794114;1190044;517;Bayern
+1849;Großmehring-Theißing;48812602;11572802;408;Bayern
+1886;Günzburg;48487813;10260783;4435;Bayern
+2023;Harburg;48791834;10706234;5013;Bayern
+2069;Hausstein;48862907;13066988;648;Bayern
+2250;Höllenstein (Kraftwerk);49127875;12864512;403;Bayern
+2260;Hof (Stadt);50323032;11907729;474;Bayern
+2261;Hof;50312257;11876039;5652;Bayern
+2268;Hofheim;50135089;10515559;265;Bayern
+2290;Hohenpeißenberg;47800869;11010819;9772;Bayern
+2319;Holzkirchen;47882292;11696146;685;Bayern
+2344;Horlachen;5015105;11697963;582;Bayern
+2360;Hüll;48601826;11676891;438;Bayern
+2410;Ingolstadt (Flugplatz);48711147;11536252;364;Bayern
+2417;Mittbach;48164379;12030747;621;Bayern
+2480;Kahl/Main;50064347;8992973;1075;Bayern
+2488;Kaisheim-Neuhof;48770102;10787615;516;Bayern
+2521;Karlshuld;48676515;11296144;374;Bayern
+2542;Kaufbeuren;47865204;10600653;716;Bayern
+2543;Kaufering;4809158;10860913;585;Bayern
+2559;Kempten;47723263;10334786;7052;Bayern
+2597;Kissingen, Bad;50223991;10079245;2817;Bayern
+2600;Kitzingen;49736318;10178126;193;Bayern
+2680;Königshofen, Bad;50284014;10445599;2885;Bayern
+2691;Königsmoos-Untermaxfeld;48670716;11217255;378;Bayern
+2700;Kösching;48830189;11487243;416;Bayern
+2708;Kohlgrub, Bad (Rosshof);47665187;11080459;742;Bayern
+2750;Kronach;50252352;11320925;310;Bayern
+2761;Krumbach-Edenhausen;48250959;10416274;520;Bayern
+2773;Kümmersbruck;49428348;1190159;4153;Bayern
+2780;Kulmbach;50100254;114494;330;Bayern
+2783;Kumhausen;4851264;12151325;436;Bayern
+2829;Landsberg (Flugplatz);48077199;10914394;621;Bayern
+2830;Landsberg/Lech;48034886;10870912;602;Bayern
+2831;Landshut;48535737;1211323;393;Bayern
+2905;Lechfeld;48184868;10850695;550;Bayern
+2920;Leiblfing;48765414;12512069;365;Bayern
+2923;Leinau;47911599;1061235;663;Bayern
+3016;Lindenberg/Allgäu;47598031;9887755;760;Bayern
+3056;Lohr/Main-Steinbach;50010254;9609971;161;Bayern
+3139;Maisach-Gernlinden;48216568;1129645;509;Bayern
+3147;Mallersdorf-Pfaffenberg-Oberlindhart;48754821;12211843;390;Bayern
+3211;Mauth-Finsterau;48935907;13574584;10115;Bayern
+3244;Memmingen;47982065;1013838;614;Bayern
+3245;Memmingen (Flugplatz);479833;102333;630;Bayern
+3265;Mespelbrunn;49921963;9287219;2965;Bayern
+3271;Metten;4885476;12918911;314;Bayern
+3291;Miltenberg;49712009;9225801;1285;Bayern
+3307;Mittenwald-Buckelwiesen;47477866;11265311;9835;Bayern
+3319;Röllbach;49764399;9253038;2385;Bayern
+3366;Mühldorf;48278982;12502407;4056;Bayern
+3379;München-Stadt;48163202;11542893;5154;Bayern
+3382;München-Bogenhausen;48144078;11600008;521;Bayern
+3383;München-Botanischer Garten;48163475;11501922;515;Bayern
+3385;München-Nymphenburg;48165975;11501122;515;Bayern
+3388;München-Perlach;48091884;11648602;542;Bayern
+3390;München-Riem;4813688;11709393;529;Bayern
+3484;Neuburg/Donau (Flugplatz);48708492;11214669;380;Bayern
+3485;Neuburg/Kammel-Langenhaslach;4831145;10377302;486;Bayern
+3565;Neustadt/Aisch;49572809;10600131;315;Bayern
+3571;Neustadt am Kulm-Filchendorf;49817404;11863829;4515;Bayern
+3578;Regensburg-Burgweinting;48983114;1214444;341;Bayern
+3621;Reimlingen;48825254;10506667;435;Bayern
+3666;Nürnberg-Buchenbuehl;4950082;11106959;335;Bayern
+3667;Nürnberg-Netzstall;49425771;11253851;369;Bayern
+3668;Nürnberg;49503031;11054923;3138;Bayern
+3679;Kiefersfelden-Gach;47618701;12166532;518;Bayern
+3722;Oberschleißheim;48244344;11552779;484;Bayern
+3730;Oberstdorf;47398429;10275881;8058;Bayern
+3735;Obertaufkirchen;48263469;12276011;455;Bayern
+3739;Oberviechtach;49452096;12436546;596;Bayern
+3752;Ochsenkopf;50029964;11807449;1014;Bayern
+3836;Ostheim v.d. Rhön;50453837;10221065;3135;Bayern
+3856;Oy-Mittelberg;47638329;10431279;1010;Bayern
+3857;Oy-Mittelberg-Petersthal;47636179;1038923;8855;Bayern
+3875;Parsberg/Oberpfalz-Eglwang;4915102;11689638;549;Bayern
+3878;Passau-Maierhof;48580547;13415212;3285;Bayern
+3879;Passau-Oberhaus;48577943;13469437;409;Bayern
+3922;Pfofeld-Langlau;49116163;108598;435;Bayern
+3974;Pommelsbrunn;49505822;115142;368;Bayern
+3975;Pommelsbrunn-Mittelburg;49477723;11535701;5215;Bayern
+4005;Prien-Stock;47858816;12362406;530;Bayern
+4018;Puch;48187671;11220561;550;Bayern
+4066;Raisting;47909102;11104781;553;Bayern
+4091;Rauschberg bei Ruhpolding;47732733;12682663;1640;Bayern
+4104;Regensburg;49042482;12101943;3654;Bayern
+4125;Reichenhall, Bad;47723835;12874037;470;Bayern
+4261;Rosenheim;47875339;12127976;442;Bayern
+4278;Roth bei Nürnberg;49251149;11093364;340;Bayern
+4280;Roth;49216232;11103514;3857;Bayern
+4287;Rothenburg ob der Tauber;49384854;10173232;415;Bayern
+4327;Rusel-Irlmoos;48876506;1304899;797;Bayern
+4354;Saldenburg-Entschenreuth;48783156;13314592;4565;Bayern
+4377;Sandberg;50351779;10003374;5175;Bayern
+4438;Scheßlitz;49974966;11039462;317;Bayern
+4548;Schönwald/Ofr.-Brunn;50184665;12079139;608;Bayern
+4559;Schorndorf-Knöbling;4916435;12617494;398;Bayern
+4576;Schwabach (A);4932614;11011975;343;Bayern
+4584;Schwaigermoos;483667;118;444;Bayern
+4592;Schwandorf;49327835;12087053;356;Bayern
+4597;Schwangau-Horn;47576937;1071814;792;Bayern
+4621;Schweinfurt-Gartenstadt;50057452;10215981;240;Bayern
+4664;Selb/Oberfranken-Wildenau;50196948;12172692;611;Bayern
+4704;Sigmarszell-Zeisertsweiler;47577598;9740446;508;Bayern
+4705;Silberhütte;497595;12389069;819;Bayern
+4706;Simbach/Inn;48271797;13027276;3575;Bayern
+4775;Speinshart;49785792;11821051;424;Bayern
+4813;Staffelstein, Bad-Stublang;50080563;11046698;3175;Bayern
+4818;Stammbach-Querenbach;50153146;11740168;597;Bayern
+4911;Straubing;48827504;12559695;3505;Bayern
+5017;Teuschnitz;50400246;1138883;633;Bayern
+5032;Thüngersheim;49885045;9846868;197;Bayern
+5046;Tirschenreuth-Lodermühl;49857617;12354218;5005;Bayern
+5063;Tölz, Bad;47756622;11581916;724;Bayern
+5074;Traunstein-Sparz;47866317;12656564;626;Bayern
+5075;Traunstein-Axdorf;47851619;1261817;635;Bayern
+5111;Trostberg;48031106;12539575;560;Bayern
+5149;Gollhofen;49567948;10196927;3175;Bayern
+5185;Uttenreuth;49593309;11070363;291;Bayern
+5306;Waldhäuser (National Park);48929303;1346413;940;Bayern
+5317;Waldsassen;5000967;12297877;509;Bayern
+5369;Wasserburg;48057192;12220222;443;Bayern
+5377;Watzmannhaus;47571353;12933731;1923;Bayern
+5397;Weiden;49666221;12184448;4396;Bayern
+5398;Weidenbach, Kr.Ansbach;49196452;10648729;425;Bayern
+5403;Weigenheim-Reusch;49590005;10258781;309;Bayern
+5404;Weihenstephan-Dürnast;48402404;11694552;4771;Bayern
+5434;Weismain;50085754;11236431;317;Bayern
+5440;Weißenburg-Emetzheim;4901153;10930837;4393;Bayern
+5467;Wendelstein;47703531;12011857;1832;Bayern
+5488;Mühlhausen, Kr. Schweinfurt;49962162;10048207;216;Bayern
+5538;Wielenbach (Demollstr.);47882679;11157584;551;Bayern
+5654;Wörnitz-Bottenweiler;49217848;10229589;464;Bayern
+5703;Würzburg/Main;4979638;9894931;170;Bayern
+5705;Würzburg;49770378;9957627;268;Bayern
+5707;Würzburg (Physikalisches-Institut);4979948;9928027;175;Bayern
+5792;Zugspitze;47421037;10984761;2956;Bayern
+5800;Zwiesel;49028013;13238509;6147;Bayern
+5802;Zwieselberg;49000693;13213664;615;Bayern
+5856;Fürstenzell;48545114;13353159;4764;Bayern
+5890;Kohlgrub, Bad (A);47677728;11047292;850;Bayern
+5904;Mainburg;48649322;11777176;431;Bayern
+5941;Reit im Winkl;47675415;12469775;6855;Bayern
+6158;Weidenbach-Weiherschneidbach;49224877;10608471;454;Bayern
+6182;Mallersdorf-Pfaffenberg;4877571;12174317;404;Bayern
+6196;Selb-Spielberg;50158673;12038633;6105;Bayern
+6219;Dollnstein-Breitenfurt;48876791;11104268;394;Bayern
+6304;Pilsach-Litzlohe;4935334;11505303;550;Bayern
+6312;Markt Erlbach-Mosbach;49531414;10641826;362;Bayern
+6336;Lohr/Main-Halsbach;500132;9654033;288;Bayern
+6346;Maisach-Galgen;48206984;11203508;531;Bayern
+6347;Schonungen-Mainberg;5005794;10297205;305;Bayern
+7075;Elsendorf-Horneck;48701956;11849253;4285;Bayern
+7105;Siegsdorf-Höll;47835009;12654781;7185;Bayern
+7319;Donauwörth-Osterweiler;48737412;10739322;435;Bayern
+7350;Prackenbach-Neuhäusl;49108809;12823114;585;Bayern
+7369;Feuchtwangen-Heilbronn;49162297;10366126;4751;Bayern
+7370;Waldmünchen;49390952;12683802;4989;Bayern
+7394;Wunsiedel-Schönbrunn;50031507;11974501;6223;Bayern
+7395;Gottfrieding;48659461;12538816;3505;Bayern
+7412;Neuhütten/Spessart;50008293;9423765;3395;Bayern
+7424;Piding;4777239;12907282;4565;Bayern
+7431;Oberhaching-Laufzorn;48013027;11552433;6035;Bayern
+13710;Landshut-Reithof;4857337;12257556;490;Bayern
+15555;Kaufbeuren-Oberbeuren;47876124;10584889;815;Bayern
+15926;Fronberg (Schwandorf);49341;12133;370;Bayern
+15965;Brückenau, Bad (Elisabethenhof);50310221;9783842;350;Bayern
+19087;Freyung vorm Wald;48804879;13552775;645;Bayern
+19617;Burghaslach;4973913;10603913;310;Bayern
+19781;Ingolstadt;48742909;11423324;367;Bayern
+1;Aach;47841299;8849299;478;Baden-Württemberg
+70;Albstadt-Ebingen;48205158;903707;712;Baden-Württemberg
+71;Albstadt-Badkap;4821555;8978387;759;Baden-Württemberg
+72;Albstadt-Onstmettingen;4827655;9000074;794;Baden-Württemberg
+257;Baden-Baden-Geroldsau;48726985;8245738;240;Baden-Württemberg
+259;Müllheim;47806371;7638692;275;Baden-Württemberg
+268;Baiersbronn-Obertal;48529319;8272676;622;Baden-Württemberg
+273;Baindt;47841302;9660585;467;Baden-Württemberg
+474;Warthausen-Birkenhard;4812517;9763868;599;Baden-Württemberg
+576;Böblingen;48675904;8973175;445;Baden-Württemberg
+706;Eschbach;47885791;7661066;234;Baden-Württemberg
+710;Bretten;49024935;8699046;182;Baden-Württemberg
+755;Buchen, Kr. Neckar-Odenwald;49518196;932127;340;Baden-Württemberg
+757;Buchenbach;4796248;7998337;445;Baden-Württemberg
+772;Bühlertal;486957;8174389;190;Baden-Württemberg
+773;Bühlertal-Obertal;48674302;8179888;478;Baden-Württemberg
+881;Crailsheim-Alexandersreut;49098476;10097896;423;Baden-Württemberg
+931;Deggenhausertal-Azenweiler;47800675;941082;712;Baden-Württemberg
+998;Dobel;48796789;8492143;696;Baden-Württemberg
+1018;Donaueschingen;47942187;8504647;677;Baden-Württemberg
+1102;Ebersbach/Fils;48720101;9532795;300;Baden-Württemberg
+1146;Ehningen;48659306;8912084;487;Baden-Württemberg
+1169;Eimeldingen;4762882;7595876;264;Baden-Württemberg
+1197;Ellwangen-Rindelbach;48989494;10131236;463;Baden-Württemberg
+1214;Elzach-Fisnacht;48201207;810884;4305;Baden-Württemberg
+1224;Emmendingen-Mundingen;48137773;783505;2005;Baden-Württemberg
+1239;Engen/Hegau;47851598;876731;540;Baden-Württemberg
+1243;Eningen;48473429;930283;705;Baden-Württemberg
+1254;Eppingen;49130652;891648;210;Baden-Württemberg
+1255;Eppingen-Elsenz;49166076;8848334;226;Baden-Württemberg
+1276;Eriskirch-Mariabrunn;47635825;9539204;408;Baden-Württemberg
+1346;Feldberg/Schwarzwald;47874842;8003793;14861;Baden-Württemberg
+1440;Freiamt-Ottoschwanden;48201822;7933603;4755;Baden-Württemberg
+1443;Freiburg;48023242;7834292;2365;Baden-Württemberg
+1447;Freiburg im Breisgau-Herdern;48012977;7858837;255;Baden-Württemberg
+1468;Freudenstadt;48453828;8408952;7965;Baden-Württemberg
+1490;Friedrichshafen;47645363;9479522;394;Baden-Württemberg
+1492;Malsburg-Marzell-Friedrichsheim;47781903;7734756;852;Baden-Württemberg
+1584;Geisingen;47924175;8647358;673;Baden-Württemberg
+1602;Ohlsbach;48432972;7993002;177;Baden-Württemberg
+1875;Gschwend, Kr. Ostalb;48935378;9736363;492;Baden-Württemberg
+2074;Hechingen;48375242;8980043;5175;Baden-Württemberg
+2080;Heidelberg;49420618;8667613;110;Baden-Württemberg
+2081;Königstuhl;49398121;8725105;561;Baden-Württemberg
+2083;Heidelberg-Grenzhof;49419218;8605122;110;Baden-Württemberg
+2088;Heidenheim/Brenz;48684941;10141978;522;Baden-Württemberg
+2095;Heilbronn;49144752;9233334;167;Baden-Württemberg
+2159;Herrenberg;48591536;8854123;434;Baden-Württemberg
+2228;Hinterzarten;4789829;8105503;883;Baden-Württemberg
+2349;Hornisgrinde;48613637;8203343;11381;Baden-Württemberg
+2388;Ihringen;48041893;7632223;1925;Baden-Württemberg
+2406;Ingelfingen;49296736;9651972;209;Baden-Württemberg
+2485;Kaisersbach-Cronhütte;48917038;9687101;4887;Baden-Württemberg
+2522;Karlsruhe;49038161;836406;1116;Baden-Württemberg
+2546;Kehl-Odelshofen;48557579;7879983;140;Baden-Württemberg
+2575;Kirchberg/Jagst-Herboldshausen;49180406;9979985;4315;Baden-Württemberg
+2638;Klippeneck;48105397;8754788;9735;Baden-Württemberg
+2654;Knittlingen;49026464;8755404;200;Baden-Württemberg
+2712;Konstanz;47695219;9130698;4281;Baden-Württemberg
+2775;Künzelsau;49279538;9692466;225;Baden-Württemberg
+2812;Lahr;48364742;7827986;1557;Baden-Württemberg
+2814;Merklingen;48512173;9764396;687;Baden-Württemberg
+2879;Lauda-Königshofen-Gerlachsheim;49578104;971416;199;Baden-Württemberg
+2886;Laupheim;48217539;9909736;539;Baden-Württemberg
+2949;Lenningen-Schopfloch;48539622;9527497;758;Baden-Württemberg
+2953;Lenzkirch-Ruhbühl;47859705;8230755;854;Baden-Württemberg
+2996;Liebenzell, Bad;48772592;8728709;352;Baden-Württemberg
+3001;Liliental;4806737;7676963;284;Baden-Württemberg
+3135;Mainhardt-Ziegelbronn;49064262;9581984;473;Baden-Württemberg
+3223;Meersburg;47698517;927534;460;Baden-Württemberg
+3253;Sankt Blasien-Menzenschwand;4783087;8069848;882;Baden-Württemberg
+3257;Mergentheim, Bad-Neunkirchen;49477324;9762223;2505;Baden-Württemberg
+3268;Meßstetten-Appental;48169353;8943265;8995;Baden-Württemberg
+3278;Metzingen;48537661;9273374;354;Baden-Württemberg
+3362;Mühlacker;48972073;8873462;2432;Baden-Württemberg
+3402;Münsingen-Apfelstetten;48385084;9483739;7545;Baden-Württemberg
+3425;Murrhardt;4897288;9571159;344;Baden-Württemberg
+3432;Nagold;48567499;8717902;380;Baden-Württemberg
+3486;Neudenau;49293135;9272227;212;Baden-Württemberg
+3518;Neuhausen ob Eck;47975984;8910089;793;Baden-Württemberg
+3519;Neuhausen ob Eck-Unterschwandorf;47951903;8993205;6625;Baden-Württemberg
+3603;Niederstetten;49389529;9966633;4591;Baden-Württemberg
+3605;Niederstotzingen;48533374;10242717;4505;Baden-Württemberg
+3671;Nürtingen;48632111;9326125;280;Baden-Württemberg
+3672;Nufringen;4862071;8896186;457;Baden-Württemberg
+3705;Oberndorf/Neckar-Aistaig;48314658;8573536;475;Baden-Württemberg
+3734;Obersulm-Willsbach;49128011;9352501;230;Baden-Württemberg
+3751;Ochsenhausen-Mittelbuch;4804488;9882152;626;Baden-Württemberg
+3761;Öhringen;49207016;9517582;2759;Baden-Württemberg
+3777;Offenburg;48459326;7925526;153;Baden-Württemberg
+3924;Pforzheim-Eutingen;48905877;8741206;246;Baden-Württemberg
+3925;Pforzheim-Ispringen;4893291;869727;332;Baden-Württemberg
+3927;Pfullendorf;47934471;928693;6295;Baden-Württemberg
+3929;Philippsburg;49251137;8441547;100;Baden-Württemberg
+4053;Radolfzell-Markelfingen;47745741;9000639;407;Baden-Württemberg
+4077;Rastatt;48847128;8186809;114;Baden-Württemberg
+4094;Weingarten, Kr. Ravensburg;47806248;9620579;4405;Baden-Württemberg
+4152;Remetschwiel;47678316;8152698;760;Baden-Württemberg
+4160;Renningen-Ihinger Hof;48742509;8923969;478;Baden-Württemberg
+4166;Reutlingen-Betzingen;48505124;9183346;360;Baden-Württemberg
+4169;Rheinau-Memprechtshofen;48670276;7993861;1305;Baden-Württemberg
+4175;Rheinfelden;47558973;7772149;2825;Baden-Württemberg
+4177;Rheinstetten;48972627;8330081;1161;Baden-Württemberg
+4189;Altheim, Kreis Biberach;48147903;9459615;5335;Baden-Württemberg
+4294;Rottenburg-Kiebingen;48470407;8968701;360;Baden-Württemberg
+4300;Rottweil;48181464;8635552;589;Baden-Württemberg
+4330;Rutesheim;4880259;8955677;449;Baden-Württemberg
+4349;Sachsenheim;4895688;9071052;251;Baden-Württemberg
+4419;Schallstadt-Mengen;4795565;7713307;212;Baden-Württemberg
+4433;Schemmerhofen-Ingerkingen;48199362;9769966;519;Baden-Württemberg
+4557;Schopfheim-Eichen;47646351;7843961;399;Baden-Württemberg
+4581;Schwäbisch Gmünd-Strassdorf;48776796;9802456;415;Baden-Württemberg
+4582;Schwäbisch Hall-Bibersfeld;49082287;968915;358;Baden-Württemberg
+4702;Sigmaringen (Flugplatz);481;925;645;Baden-Württemberg
+4703;Sigmaringen-Laiz;48071864;9194326;5805;Baden-Württemberg
+4719;Sinsheim;49244739;8878684;169;Baden-Württemberg
+4837;Stegen;4798688;7946625;363;Baden-Württemberg
+4881;Stockach;47859059;9015181;5325;Baden-Württemberg
+4887;Stötten;48665587;9864791;7338;Baden-Württemberg
+4926;Stuttgart (Neckartal);48789592;9216739;224;Baden-Württemberg
+4927;Stuttgart-Stadt;48769294;9181444;286;Baden-Württemberg
+4928;Stuttgart (Schnarrenberg);48828085;9200028;3143;Baden-Württemberg
+4931;Stuttgart-Echterdingen;48684905;9220141;378;Baden-Württemberg
+4933;Stuttgart-Hohenheim;48709127;9214712;401;Baden-Württemberg
+4987;Tauberbischofsheim-Dittigheim;496122;9674665;179;Baden-Württemberg
+5047;Titisee-Neustadt-Langenordnach;47939386;819329;870;Baden-Württemberg
+5059;Todtmoos;47727934;7998838;7805;Baden-Württemberg
+5105;Trochtelfingen;48313247;9247239;700;Baden-Württemberg
+5107;Trochtelfingen-Wilsingen;48281384;9313694;769;Baden-Württemberg
+5120;Tübingen;48519822;9051465;370;Baden-Württemberg
+5127;Tuttlingen;4800828;8817902;649;Baden-Württemberg
+5128;Tuttlingen-Möhringen-Vorstadt;47968152;8789874;6675;Baden-Württemberg
+5138;Überlingen/Bodensee;47771308;9156156;446;Baden-Württemberg
+5155;Ulm;48383656;9952422;5668;Baden-Württemberg
+5229;Villingen-Schwenningen;48045325;8460769;719;Baden-Württemberg
+5250;Vogtsburg-Oberrotweil;48090768;7635268;223;Baden-Württemberg
+5275;Waghäusel-Kirrlach;49244471;8537434;1045;Baden-Württemberg
+5284;Waiblingen;48827888;9322824;224;Baden-Württemberg
+5291;Waldau-Jostal;47975982;8155796;1005;Baden-Württemberg
+5320;Waldshut;47617223;8238786;330;Baden-Württemberg
+5429;Weinsberg;49151151;9292025;219;Baden-Württemberg
+5435;Weissach;4884573;890729;455;Baden-Württemberg
+5453;Weisweil-Waldeckhof;48188008;7697606;1735;Baden-Württemberg
+5460;Wellendingen;48147664;8695418;655;Baden-Württemberg
+5498;Wertheim-Eichel;49766682;9542783;140;Baden-Württemberg
+5559;Wildbad, Bad-Calmbach;48784843;8576383;383;Baden-Württemberg
+5562;Neubulach-Oberhaugstett;4865156;8680111;5705;Baden-Württemberg
+5609;Winterbach, Rems-Murr-Kreis;48803087;9469902;241;Baden-Württemberg
+5664;Wolfach;48295324;8239068;296;Baden-Württemberg
+5688;Dachsberg-Wolpadingen;47700359;8105736;8805;Baden-Württemberg
+5731;Wutöschingen-Ofteringen;47678267;8380132;3945;Baden-Württemberg
+5885;Kirchheim/Teck-Ötlingen;48658208;9420311;289;Baden-Württemberg
+5898;Ludwigsburg;4889428;920584;287;Baden-Württemberg
+5906;Mannheim;49506251;8558439;98;Baden-Württemberg
+5971;Welzheim (A);48878684;9634179;510;Baden-Württemberg
+6258;Friedrichshafen-Unterraderach;47684486;9440903;461;Baden-Württemberg
+6259;Großerlach-Mannenweiler;49021043;9603252;5235;Baden-Württemberg
+6260;Ingelfingen-Stachenhausen;4933275;9704008;385;Baden-Württemberg
+6262;Schwäbisch Gmünd-Weiler;48769466;9873745;412;Baden-Württemberg
+6263;Singen;47773799;8821934;445;Baden-Württemberg
+6275;Notzingen;48670477;9462704;3265;Baden-Württemberg
+7135;Aulendorf-Haslach;47965473;9680409;565;Baden-Württemberg
+7187;Freudenberg/Main-Boxtal;49763628;9406294;1935;Baden-Württemberg
+7331;Hermaringen-Allewind;48609888;10267397;4665;Baden-Württemberg
+7403;Leutkirch-Herlazhofen;47795529;10032457;6717;Baden-Württemberg
+13674;Waibstadt;49294262;8905286;2366;Baden-Württemberg
+13965;Balingen-Bronnhaupten;48263864;8813418;619;Baden-Württemberg
+15444;Ulm-Mähringen;48441768;9921613;5926;Baden-Württemberg
+19647;Eberbach/Neckar;49454703;8979441;178;Baden-Württemberg
+44;Großenkneten;52933593;8237018;44;Niedersachsen
+78;Alfhausen;52485322;7912544;635;Niedersachsen
+102;Leuchtturm Alte Weser;5386333;81275;0;Niedersachsen
+172;Annaturm;52248598;9505562;395;Niedersachsen
+243;Aurich;53462052;7466971;4;Niedersachsen
+294;Barsinghausen-Hohenbostel;52319851;942997;1095;Niedersachsen
+327;Bederkesa;53623437;8832253;27;Niedersachsen
+342;Belm;52317043;816943;1033;Niedersachsen
+368;Bergen;52815233;9924809;685;Niedersachsen
+588;Boffzen;51751954;9395285;105;Niedersachsen
+619;Borkum-Süderstraße;53578793;6670348;116;Niedersachsen
+642;Brake;5335176;8496943;35;Niedersachsen
+643;Brake-Süderfeld;53295974;8452916;0;Niedersachsen
+645;Bramsche;52408318;7968234;75;Niedersachsen
+656;Braunlage;51723383;10602109;6073;Niedersachsen
+660;Braunschweig-Gliesmarode;522744;10565599;83;Niedersachsen
+661;Braunschweig (T.H.);522708;10533404;75;Niedersachsen
+662;Braunschweig;52291469;10446448;814;Niedersachsen
+703;Bremervörde (A);53477855;9155304;5;Niedersachsen
+704;Bremervörde;53445118;913903;106;Niedersachsen
+705;Bremervörde-Niederochtenhausen;53531249;9166401;5;Niedersachsen
+760;Rosengarten-Klecken;533629;9943511;83;Niedersachsen
+769;Bückeburg;52281691;908895;68;Niedersachsen
+848;Celle (Stadt);52614642;10072598;38;Niedersachsen
+850;Celle;5259591;10029585;447;Niedersachsen
+863;Clausthal-Zellerfeld;51790354;10347039;585;Niedersachsen
+865;Cloppenburg;52844124;8062381;42;Niedersachsen
+891;Cuxhaven;53871341;8706028;49;Niedersachsen
+963;Diepholz;52588112;8342405;377;Niedersachsen
+1066;Duderstadt;51503986;10261256;180;Niedersachsen
+1172;Einbeck;51818948;9887109;123;Niedersachsen
+1204;Elsfleth;53234581;8461216;1;Niedersachsen
+1219;Emden-Nesserland;53344865;7190915;5;Niedersachsen
+1221;Emden-Wolthusen;53370663;722361;0;Niedersachsen
+1299;Esens;53647631;7608548;3;Niedersachsen
+1339;Faßberg;52915651;10188503;762;Niedersachsen
+1451;Freiburg/Elbe;53827696;9249276;2;Niedersachsen
+1503;Friesoythe-Altenoythe;53064301;7901969;57;Niedersachsen
+1691;Göttingen;51500248;9950659;1674;Niedersachsen
+1792;Groß Berßen;52755286;7481492;27;Niedersachsen
+1993;Hameln;52084784;9389576;675;Niedersachsen
+2005;Hankensbüttel;52719883;10598441;108;Niedersachsen
+2014;Hannover;52464428;9677906;552;Niedersachsen
+2039;Harzburg, Bad;51900249;10569851;203;Niedersachsen
+2120;Helmstedt;52216409;1102193;140;Niedersachsen
+2174;Herzberg;51625476;10369512;236;Niedersachsen
+2206;Hildesheim;52140812;9883806;117;Niedersachsen
+2323;Bevern, Kr. Holzminden;5185294;9495274;110;Niedersachsen
+2324;Holzminden-Silberborn;51765853;9544662;440;Niedersachsen
+2456;Jever;535322;78806;7;Niedersachsen
+2464;Jork;53531551;9675221;1;Niedersachsen
+2689;Königsmoor;53227933;9652723;40;Niedersachsen
+2821;Lamspringe;51960333;10015688;214;Niedersachsen
+2861;Langeoog;5374452;7477468;5;Niedersachsen
+2872;Lathen;52845723;7348892;15;Niedersachsen
+3023;Lingen;5251807;7308105;218;Niedersachsen
+3044;Löningen;52719795;774721;22;Niedersachsen
+3045;Löningen-Hagel;52743236;7876311;27;Niedersachsen
+3093;Lüchow;52972379;11137371;162;Niedersachsen
+3103;Lüneburg;53265685;10424006;11;Niedersachsen
+3222;Meerbeck;52341085;9140318;60;Niedersachsen
+3236;Melle;52214714;8383303;85;Niedersachsen
+3254;Meppen;52715468;7317616;19;Niedersachsen
+3348;Moringen-Lutterbeck;5172086;9835126;241;Niedersachsen
+3612;Nienburg;52671092;9222894;25;Niedersachsen
+3631;Norderney;53712304;7151923;115;Niedersachsen
+3639;Nordholz (Flugplatz);53764714;8658362;263;Niedersachsen
+3640;Nordhorn-Blanke;52412326;706398;25;Niedersachsen
+3790;Oldenburg (A);53101795;825155;5;Niedersachsen
+3791;Oldenburg;53176273;8182353;11;Niedersachsen
+3815;Osnabrück;52255342;8053353;954;Niedersachsen
+3867;Papenburg;53064626;7481521;5;Niedersachsen
+4029;Quakenbrück;52669144;7954399;25;Niedersachsen
+4275;Rotenburg (Wümme);53128923;9339795;315;Niedersachsen
+4288;Rothenfelde, Bad;52103808;8180881;96;Niedersachsen
+4347;Sachsa, Bad;51590948;10569098;2925;Niedersachsen
+4364;Salzgitter-Ringelheim;52035526;10305442;138;Niedersachsen
+4367;Salzhemmendorf-Lauenstein;52078066;9551981;175;Niedersachsen
+4571;Schulenberg;51836949;10431226;504;Niedersachsen
+4651;Seesen;51903979;10188488;189;Niedersachsen
+4745;Soltau;52960408;9793049;754;Niedersachsen
+4841;Steinau, Kr. Cuxhaven;53694592;8873533;;Niedersachsen
+4847;Steinberg;513629;9690244;500;Niedersachsen
+4857;Mittelnkirchen-Hohenfelde;53553423;9609747;15;Niedersachsen
+5014;Worpswede-Hüttenbusch;53275827;8985687;65;Niedersachsen
+5067;Torfhaus im Solling;51764253;9562759;491;Niedersachsen
+5146;Uelzen;52941435;10528857;50;Niedersachsen
+5165;Unterlüß;52849932;10289833;95;Niedersachsen
+5236;Visbek;52831827;8311242;51;Niedersachsen
+5252;Voldagsen;52103015;9584452;100;Niedersachsen
+5575;Wilhelmshaven;53590139;8105969;1;Niedersachsen
+5640;Wittmundhafen;53550349;7667159;10;Niedersachsen
+5675;Wolfsburg;52441082;10758667;56;Niedersachsen
+5676;Wolfsburg (Südwest);52396155;10689233;815;Niedersachsen
+5715;Wunstorf;52462608;9424454;486;Niedersachsen
+5821;Bassum (A);52848226;8718978;36;Niedersachsen
+5822;Bassum;5286303;8698853;415;Niedersachsen
+5832;Dannenberg;53100708;11045511;50;Niedersachsen
+5839;Emden;53388122;7228716;;Niedersachsen
+6093;Wendisch Evern;53213878;10470375;62;Niedersachsen
+6157;Wangerland-Hooksiel;53641065;808086;4;Niedersachsen
+6159;Dörpen;52954199;7319679;8;Niedersachsen
+6184;Wilhelmshaven (Flugplatz);535333;81667;6;Niedersachsen
+7099;Liebenburg-Othfresen;52011142;10396557;187;Niedersachsen
+7367;Alfeld;51964331;980717;1437;Niedersachsen
+7373;Borkum-Flugplatz;53598385;6702417;3;Niedersachsen
+7432;Wittingen-Vorhop;52642294;10662762;705;Niedersachsen
+13675;Hameln-Hastenbeck;52081826;9407661;75;Niedersachsen
+13776;Hildesheim-Drispenstedt;52178908;9952395;85;Niedersachsen
+13777;Helmstedt-Emmerstedt;52246687;10959207;1085;Niedersachsen
+15813;Lingen-Baccum;52512631;7413109;402;Niedersachsen
+3;Aachen;50782659;6094087;202;Nordrhein-Westfalen
+98;Altastenberg;51189015;846713;780;Nordrhein-Westfalen
+186;Arnsberg;51377293;8071289;2179;Nordrhein-Westfalen
+326;Beckum-Unterberg;51720353;8057689;120;Nordrhein-Westfalen
+386;Berleburg, Bad;51045431;8385144;445;Nordrhein-Westfalen
+390;Berleburg, Bad-Stünzel;50983713;8368331;610;Nordrhein-Westfalen
+553;Bocholt (Marienschule);51838038;6610709;25;Nordrhein-Westfalen
+554;Bocholt-Liedern (Wasserwerk);518293;653651;23;Nordrhein-Westfalen
+555;Bochum;51502642;7228914;110;Nordrhein-Westfalen
+598;Bonn;50728465;708394;62;Nordrhein-Westfalen
+599;Bonn-Friesdorf;50705468;714673;62;Nordrhein-Westfalen
+603;Königswinter-Heiderhof;50729285;7204024;1472;Nordrhein-Westfalen
+614;Borgentreich-Bühne;51570874;9311999;240;Nordrhein-Westfalen
+617;Borken in Westfalen;51873046;6886297;47;Nordrhein-Westfalen
+717;Brilon;51387293;8573713;443;Nordrhein-Westfalen
+1032;Dortmund;51511976;7534469;120;Nordrhein-Westfalen
+1078;Düsseldorf;51295968;6768626;366;Nordrhein-Westfalen
+1079;Düsseldorf-Südfriedhof;51199811;6757388;37;Nordrhein-Westfalen
+1084;Duisburg-Friemersheim;51393989;6702596;31;Nordrhein-Westfalen
+1087;Duisburg-Laar;51463381;6732091;21;Nordrhein-Westfalen
+1201;Elsdorf/Erftkreis;50928142;6564617;85;Nordrhein-Westfalen
+1238;Engelskirchen;50988436;7424988;144;Nordrhein-Westfalen
+1246;Ennigerloh-Ostenfelde;51841775;8060717;104;Nordrhein-Westfalen
+1300;Eslohe;5125399;815653;351;Nordrhein-Westfalen
+1303;Essen-Bredeney;51404085;6967741;150;Nordrhein-Westfalen
+1327;Weilerswist-Lommersum;50711886;6790489;147;Nordrhein-Westfalen
+1590;Geldern-Walbeck;51494168;6246343;37;Nordrhein-Westfalen
+1766;Münster/Osnabrück;52134375;7696859;478;Nordrhein-Westfalen
+1891;Rheda-Wiedenbrück-Lintel;51877017;8357671;725;Nordrhein-Westfalen
+1920;Hagen-Fley;51412887;7489477;100;Nordrhein-Westfalen
+2110;Heinsberg-Schleiden;51041072;6104239;57;Nordrhein-Westfalen
+2147;Herford;52126408;868649;77;Nordrhein-Westfalen
+2173;Herten;51588967;7154827;60;Nordrhein-Westfalen
+2338;Hopsten (Flugplatz);523333;755;39;Nordrhein-Westfalen
+2422;Iserlohn-Westig;51376792;7764435;230;Nordrhein-Westfalen
+2474;Jülich (Forsch.-Anlage);50910444;640934;91;Nordrhein-Westfalen
+2483;Kahler Asten;51180254;8489068;839;Nordrhein-Westfalen
+2494;Kalkar;51732868;6268841;31;Nordrhein-Westfalen
+2497;Kall-Sistig;5050141;6526408;505;Nordrhein-Westfalen
+2629;Kleve;51761242;6095381;46;Nordrhein-Westfalen
+2665;Köln-Botanischer Garten;50961538;6971156;45;Nordrhein-Westfalen
+2667;Köln/Bonn;50864547;7157524;92;Nordrhein-Westfalen
+2703;Köterberg;51855042;9323895;496;Nordrhein-Westfalen
+2947;Lennestadt-Theten;51133253;8034831;286;Nordrhein-Westfalen
+2968;Köln-Stammheim;50989428;6977688;43;Nordrhein-Westfalen
+3028;Lippspringe, Bad;51785416;8838795;157;Nordrhein-Westfalen
+3031;Lippstadt-Bökenförde;51633617;839445;92;Nordrhein-Westfalen
+3096;Lüdenscheid (Zeppelin-Gymnasium);51213111;7635855;444;Nordrhein-Westfalen
+3098;Lüdenscheid;51245158;7642497;3867;Nordrhein-Westfalen
+3101;Lüdinghausen;51769446;7412787;58;Nordrhein-Westfalen
+3228;Meinerzhagen (A);51097624;7666951;506;Nordrhein-Westfalen
+3320;Mönchengladbach;51197011;6449934;49;Nordrhein-Westfalen
+3404;Münster;51949426;7590559;62;Nordrhein-Westfalen
+3540;Neunkirchen-Seelscheid-Krawinkel;50844636;7371973;195;Nordrhein-Westfalen
+3541;Neunkirchen-Seelscheid-Meisenbach;50895646;7308106;185;Nordrhein-Westfalen
+3591;Nideggen-Schmidt;50674261;6423998;350;Nordrhein-Westfalen
+3623;Nörvenich (Flugplatz);50829354;6660063;1104;Nordrhein-Westfalen
+3753;Ochtrup;52204196;7178421;56;Nordrhein-Westfalen
+4063;Rahden-Kleinendorf;52446122;8590574;405;Nordrhein-Westfalen
+4100;Recklinghausen;51624263;7182022;109;Nordrhein-Westfalen
+4127;Reichshof-Eckenhagen;50990623;7695754;347;Nordrhein-Westfalen
+4154;Remscheid-Lennep;51179967;7250539;345;Nordrhein-Westfalen
+4174;Rheine-Bentlage;52288697;7386643;40;Nordrhein-Westfalen
+4240;Roetgen;50640675;6205771;440;Nordrhein-Westfalen
+4371;Salzuflen, Bad;52104207;8752053;1346;Nordrhein-Westfalen
+4401;Sassendorf, Bad-Ostinghausen;51633364;818717;81;Nordrhein-Westfalen
+4442;Schieder;51911935;915332;155;Nordrhein-Westfalen
+4649;Seelscheid;50869849;7322804;214;Nordrhein-Westfalen
+4692;Siegen (Kläranlage);50853381;7996614;229;Nordrhein-Westfalen
+4741;Solingen-Hohenscheid;5114004;7092982;152;Nordrhein-Westfalen
+5064;Tönisvorst;51289722;6443651;37;Nordrhein-Westfalen
+5347;Warburg;5150392;9111774;2358;Nordrhein-Westfalen
+5480;Werl;51576347;7887922;848;Nordrhein-Westfalen
+5717;Wuppertal-Buchenhofen;51225598;7105176;134;Nordrhein-Westfalen
+5719;Remscheid;51205111;7200021;235;Nordrhein-Westfalen
+6197;Lügde-Paenbruch;51866393;9271007;2576;Nordrhein-Westfalen
+6264;Brilon-Thülen;51413998;8649983;457;Nordrhein-Westfalen
+6337;Lüdinghausen-Brochtrup;51766342;7519387;59;Nordrhein-Westfalen
+7106;Bielefeld-Deppendorf;52071449;8456493;105;Nordrhein-Westfalen
+7330;Arnsberg-Neheim;5146332;797797;159;Nordrhein-Westfalen
+7374;Ahaus;520813;6940893;455;Nordrhein-Westfalen
+13670;Duisburg-Baerl;51508794;6701773;24;Nordrhein-Westfalen
+13696;Waltrop-Abdinghof;51596642;7404843;60;Nordrhein-Westfalen
+13700;Gevelsberg-Oberbröking;51332887;7341174;203;Nordrhein-Westfalen
+13713;Meinerzhagen-Redlendorf;51089851;7628924;386;Nordrhein-Westfalen
+15000;Aachen-Orsbach;50798281;602439;231;Nordrhein-Westfalen
+15963;St. Tönis;513258;65089;40;Nordrhein-Westfalen
+91;Alsfeld-Eifa;50744591;9344972;300;Hessen
+93;Alsfeld-Reibertenrod;50769066;9254216;269;Hessen
+193;Arolsen-Neu Berich;51384495;9082036;232;Hessen
+211;Aßlar Klein-Altenstädten;50579959;8468468;200;Hessen
+330;Oberzent-Beerfelden;49561729;8967329;455;Hessen
+355;Bensheim;49678889;8627617;140;Hessen
+480;Biedenkopf-Wallau;5092751;8493681;296;Hessen
+727;Brombachtal-Kirch-Brombach;49734483;8955669;290;Hessen
+771;Büdingen;50276922;9116741;148;Hessen
+817;Burgwald-Bottendorf;51030568;8814605;293;Hessen
+917;Darmstadt;49880895;8677906;162;Hessen
+918;Darmstadt (A);4984527;8624017;122;Hessen
+919;Darmstadt-Botanischer Garten;49869667;8679608;169;Hessen
+979;Dillenburg;50736371;8267238;314;Hessen
+1297;Eschwege;51204132;10013767;156;Hessen
+1420;Frankfurt/Main;50025911;8521294;997;Hessen
+1421;Frankfurt/Main (Stadt);50147435;8674607;125;Hessen
+1424;Frankfurt/Main-Westend;50126877;8669396;1208;Hessen
+1425;Frankfurt/Main (Feldbergstr.);50121422;8660354;103;Hessen
+1504;Fritzlar (Flugplatz);51119006;9279894;172;Hessen
+1526;Fulda-Horas;50566786;9653221;242;Hessen
+1580;Geisenheim;49985894;795482;1112;Hessen
+1593;Gelnhausen;50202731;9198929;190;Hessen
+1619;Gernsheim;49762199;8488697;90;Hessen
+1638;Gießen (Lahntal);50590984;8655107;158;Hessen
+1639;Gießen/Wettenberg;50601715;8643898;2032;Hessen
+1645;Gilserberg-Moischeid;50965565;9050014;340;Hessen
+1748;Grebenhain-Herchenhain;50478799;9262017;608;Hessen
+1863;Gründau-Breitenborn;50266701;9185383;258;Hessen
+2000;Hanau;50120539;8924271;106;Hessen
+2092;Heidenrod-Mappershain;50169131;7994907;496;Hessen
+2151;Herleshausen;51004843;10170476;215;Hessen
+2171;Hersfeld, Bad;50851957;9737694;2722;Hessen
+2264;Hofgeismar-Beberbeck;51533979;9478874;242;Hessen
+2327;Homberg/Ohm;50731569;9003154;250;Hessen
+2532;Kassel;51296303;9442424;231;Hessen
+2533;Kassel-Harleshausen;51334002;9450581;198;Hessen
+2601;Kleiner Feldberg/Taunus;50221797;8446883;8221;Hessen
+2717;Korbach-Lengefeld;51266208;8830875;395;Hessen
+3004;Limburg/Lahn-Offheim;50411603;8060496;185;Hessen
+3018;Lindenfels-Winterkasten;49711685;8780395;445;Hessen
+3042;Löhnberg-Obershausen;50561656;8238629;230;Hessen
+3062;Lorch/Rhein;50035246;7819733;100;Hessen
+3164;Cölbe, Kr. Marburg-Biedenkopf;50849234;8774517;187;Hessen
+3284;Michelstadt;49669151;9008528;240;Hessen
+3287;Michelstadt-Vielbrunn;49717686;9099716;4528;Hessen
+3300;Mittel-Gründau;50228527;9106443;155;Hessen
+3313;Modautal-Neunkirchen;49732783;8777095;508;Hessen
+3442;Nauheim, Bad;50357418;8750564;1485;Hessen
+3527;Neukirchen-Hauptschwenda;5089228;940498;500;Hessen
+3590;Nidderau-Windecken;50233526;8892274;180;Hessen
+3744;Oberweser-Gieselwerder;51601772;9538265;125;Hessen
+3776;Offenbach/M. (Stadt);50094641;8754596;110;Hessen
+4233;Röhrigshof bei Schlüchtern;503833;95167;397;Hessen
+4411;Schaafheim-Schlierbach;49919503;8967056;155;Hessen
+4436;Schenklengsfeld;50816563;9846027;314;Hessen
+4479;Schlüchtern-Kloster Gomfritz;50384911;9535778;375;Hessen
+4480;Schlüchtern-Herolz;50344656;955333;230;Hessen
+4560;Schotten;50492508;9122558;265;Hessen
+4586;Schwalbach, Bad;50139434;8062697;320;Hessen
+4729;Steinau-Seidenroth;50288222;945829;342;Hessen
+4763;Sontra;51060686;9926618;265;Hessen
+4765;Sooden-Allendorf, Bad;51279992;9984737;199;Hessen
+4978;Tann/Rhön;50639028;10022846;395;Hessen
+5133;Twistetal-Mühlhausen;513344;8913191;295;Hessen
+5277;Wahlen;50811864;912796;349;Hessen
+5279;Wesertal-Lippoldsberg;5161941;957491;176;Hessen
+5296;Waldeck;51207015;906584;376;Hessen
+5300;Waldems-Reinborn;50259603;8360676;380;Hessen
+5361;Wartenberg-Angersbach;50627083;9441989;270;Hessen
+5371;Wasserkuppe;50497265;9942732;9204;Hessen
+5410;Weilburg (Kläranlage);50473197;8259366;135;Hessen
+5541;Wiesbaden-Auringen;50132052;8316938;263;Hessen
+5543;Wiesbaden-Dotzheim;50086341;8187179;235;Hessen
+5568;Wildungen, Bad;51105627;9108135;310;Hessen
+5582;Willingen/Upland;51294004;8602609;580;Hessen
+5644;Witzenhausen;51349302;9843821;133;Hessen
+5912;Malsfeld;51098847;9538035;169;Hessen
+6344;Runkel-Ennerich;50393972;8142276;168;Hessen
+7341;Offenbach-Wetterpark;5008995;8786165;1186;Hessen
+7396;Hoherodskopf/Vogelsberg;50508396;9224634;7398;Hessen
+7410;Neu-Ulrichstein;50751337;9022428;350;Hessen
+15207;Schauenburg-Elgershausen;51283452;9358959;317;Hessen
+52;Ahrensburg-Wulfsdorf;53662339;10199036;46;Schleswig-Holstein
+185;Arnis;54628927;9929365;3;Schleswig-Holstein
+335;Behrensdorf;54342563;1060176;4;Schleswig-Holstein
+592;Bokel;53863413;9734407;10;Schleswig-Holstein
+648;Brande-Hörnerkirchen;53855114;971521;9;Schleswig-Holstein
+1130;Eggebek;5462823;9364924;18;Schleswig-Holstein
+1200;Elpersbüttel;54069146;9010547;3;Schleswig-Holstein
+1266;Erfde;54299212;9316185;18;Schleswig-Holstein
+1329;Eutin;54133987;10586466;50;Schleswig-Holstein
+1378;Flensburg;54808604;9418246;45;Schleswig-Holstein
+1379;Flensburg (Schäferhaus);54773679;9375294;405;Schleswig-Holstein
+1666;Glücksburg-Meierwik;54827332;9505784;117;Schleswig-Holstein
+1667;Glückstadt;5379702;9429456;1;Schleswig-Holstein
+1736;Grambek;53573115;10679686;255;Schleswig-Holstein
+2048;Haseldorf;53634239;9603831;3;Schleswig-Holstein
+2078;Weddingstedt;5421807;9085307;10;Schleswig-Holstein
+2115;Helgoland;54174971;7891995;44;Schleswig-Holstein
+2122;Helse, Kr. Dithmarschen;53970098;9009522;2;Schleswig-Holstein
+2303;Hohn;54316169;9538516;10;Schleswig-Holstein
+2306;Hohwacht;54319391;10673193;75;Schleswig-Holstein
+2374;Husum;5447524;9056409;3;Schleswig-Holstein
+2429;Itzehoe;53989731;9569692;196;Schleswig-Holstein
+2437;Schleswig-Jagel;54456985;9520317;213;Schleswig-Holstein
+2564;Kiel-Holtenau;54377582;10142375;284;Schleswig-Holstein
+2565;Kiel-Kronshagen;54337761;10092943;17;Schleswig-Holstein
+2609;Klein Rönnau;53958705;1032931;40;Schleswig-Holstein
+2770;Kükels;53901512;10235926;35;Schleswig-Holstein
+2906;Leck (A);54775006;8980818;5;Schleswig-Holstein
+2907;Leck;54790294;8951446;67;Schleswig-Holstein
+2912;Lehbek;54741913;9879071;9;Schleswig-Holstein
+2950;Lensahn;54218979;10884417;14;Schleswig-Holstein
+2961;Leuchtturm Kiel;54499614;10273687;0;Schleswig-Holstein
+3032;List auf Sylt;55010989;8412531;247;Schleswig-Holstein
+3085;Lübeck;53877317;10691454;15;Schleswig-Holstein
+3086;Lübeck-Blankensee;53802512;10698941;147;Schleswig-Holstein
+3088;Lübeck-Werft;53895315;10703951;5;Schleswig-Holstein
+3317;Mölln;53612847;10694258;42;Schleswig-Holstein
+3537;Neumünster;54087289;9979065;26;Schleswig-Holstein
+3897;Pelzerhaken;5408933;10877341;22;Schleswig-Holstein
+3955;Plön (See);54158983;10401996;24;Schleswig-Holstein
+4038;Quickborn (Kurzer Kamp);5372763;9907081;27;Schleswig-Holstein
+4039;Quickborn;53733089;987757;11;Schleswig-Holstein
+4156;Rendsburg;54287764;9674911;8;Schleswig-Holstein
+4320;Ruhwinkel;54093389;10222325;36;Schleswig-Holstein
+4391;Sankt Michaelisdonn;53987797;9112505;3;Schleswig-Holstein
+4393;Sankt Peter-Ording;54327907;8603056;49;Schleswig-Holstein
+4466;Schleswig;54527539;9548666;427;Schleswig-Holstein
+4468;Schleswig-Stadtfeld;54522737;9564926;19;Schleswig-Holstein
+4484;Schmalenbeck;53661539;10254327;45;Schleswig-Holstein
+4629;Schwesing;54516636;9141994;37;Schleswig-Holstein
+4656;Segeberg, Bad;53927809;10299316;49;Schleswig-Holstein
+4896;Wagersrott;54665383;9805022;40;Schleswig-Holstein
+5078;Travemünde;53961947;10889158;23;Schleswig-Holstein
+5280;Wittenborn;53922412;10226738;325;Schleswig-Holstein
+5514;Westerland;54899049;8311725;3;Schleswig-Holstein
+5516;Fehmarn;54528292;11060556;32;Schleswig-Holstein
+5732;Wrixum/Föhr;54692781;8527128;9;Schleswig-Holstein
+5930;Schönhagen (Ostseebad);54640986;1002377;;Schleswig-Holstein
+6105;Ostenfeld (Rendsburg);54319385;980512;145;Schleswig-Holstein
+6163;Dörnick;54165444;10351887;27;Schleswig-Holstein
+7298;Hattstedt;54526755;9042461;4;Schleswig-Holstein
+7427;Padenstedt (Pony-Park);54018844;9925507;165;Schleswig-Holstein
+19171;Hasenkrug-Hardebek;5400385;9855495;13;Schleswig-Holstein
+19172;Wacken;540246;9387966;48;Schleswig-Holstein
+96;Neuruppin-Alt Ruppin;52943711;12851826;498;Brandenburg
+116;Altenburg;509833;124333;213;Thüringen
+129;Altentreptow;53689277;13242;28;Mecklenburg-Vorpommern
+131;Geringswalde-Altgeringswalde;51088078;12932593;2955;Sachsen
+150;Alzey;497273;8116356;215;Rheinland-Pfalz
+161;Andernach;50423665;7420171;75;Rheinland-Pfalz
+164;Angermünde;53031558;1399082;539;Brandenburg
+167;Anklam;53840867;13685443;11;Mecklenburg-Vorpommern
+169;Annaberg-Buchholz;50573012;13005262;630;Sachsen
+174;Annweiler-Bindersbach;49188643;7976615;250;Rheinland-Pfalz
+183;Arkona;54679109;13434416;42;Mecklenburg-Vorpommern
+184;Arneburg;52676863;12007669;55;Sachsen-Anhalt
+198;Artern;51374418;11291962;1639;Thüringen
+207;Aschersleben;51749765;1146667;105;Sachsen-Anhalt
+222;Aue;50590826;12713873;393;Sachsen
+288;Bargischow-Gnevezin;53840945;13754867;3;Mecklenburg-Vorpommern
+298;Barth;54340527;12710848;27;Mecklenburg-Vorpommern
+303;Baruth;52061303;13499731;548;Brandenburg
+314;Kubschütz, Kr. Bautzen;51160383;14504184;234;Sachsen
+348;Bendorf;50413502;7588566;127;Rheinland-Pfalz
+377;Bergzabern, Bad;49107025;7996749;210;Rheinland-Pfalz
+379;Berka, Bad (Flugplatz);50907455;11266477;304;Thüringen
+395;Berlin-Adlershof;524167;134833;38;Berlin
+399;Berlin-Alexanderplatz;52519785;13405678;358;Berlin
+400;Berlin-Buch;52630956;13502135;60;Berlin
+402;Berlin-Dahlem (LFAG);52456399;13299675;55;Berlin
+403;Berlin-Dahlem (FU);52453711;13301731;51;Berlin
+405;Berlin-Friedrichshagen;5245;1365;37;Berlin
+407;Berlin-Frohnau;52646077;13285772;48;Berlin
+408;Berlin-Invalidenstraße;525333;133833;35;Berlin
+410;Berlin-Kaniswall;52404034;13730854;33;Berlin
+416;Berlin-Lichtenrade;52406906;13412659;47;Berlin
+417;Berlin-Lichterfelde (Süd);52414404;13303575;43;Berlin
+420;Berlin-Marzahn;52544744;13559789;61;Berlin
+422;Berlin-Mitte;525333;133833;35;Berlin
+424;Berlin-Ostkreuz;525;134667;36;Berlin
+425;Berlin-Rudow;52404407;13483848;38;Berlin
+427;Berlin Brandenburg;52380702;13530576;456;Brandenburg
+429;Berlin-Spandau;52566685;13169392;32;Berlin
+430;Berlin-Tegel;52564402;13308805;355;Berlin
+432;Berlin-Tegeler Fliesstal;52604382;13295172;36;Berlin
+433;Berlin-Tempelhof;52467451;1340212;477;Berlin
+434;Berlin-Treptow;52455301;13469949;35;Berlin
+435;Berlin-Zehlendorf;52428902;13232686;45;Berlin
+445;Bernburg/Saale (Nord);51821792;1171098;845;Sachsen-Anhalt
+450;Bernkastel-Kues;499186;70664;120;Rheinland-Pfalz
+460;Berus;49264058;6686776;3623;Saarland
+524;Bitterfeld;516333;123167;80;Sachsen-Anhalt
+526;Blankenburg, Bad;50673798;11280521;254;Thüringen
+535;Blankenrath;50037229;7307861;417;Rheinland-Pfalz
+550;Bobeck;50904081;11798477;344;Thüringen
+591;Boizenburg;53391093;1068781;447;Mecklenburg-Vorpommern
+596;Boltenhagen;54002724;1119082;15;Mecklenburg-Vorpommern
+650;Brandenburg-Görden;52413598;12550291;35;Brandenburg
+691;Bremen;5304507;8798084;4;Bremen
+699;Bremen-Seefahrtschule;53100397;8783366;4;Bremen
+701;Bremerhaven;5353321;8576089;65;Bremen
+702;Bremerhaven-Speckenbüttel;53587641;860149;8;Bremen
+722;Brocken;51798615;1061828;11347;Sachsen-Anhalt
+729;Brotterode;50828165;10454036;600;Thüringen
+736;Brücken;49630291;7114838;390;Rheinland-Pfalz
+766;Büchel (Flugplatz);50174545;705952;477;Rheinland-Pfalz
+793;Buhlenberg;49661987;7109839;530;Rheinland-Pfalz
+840;Carlsfeld;50431251;12611421;8953;Sachsen
+853;Chemnitz;50791286;12871977;4161;Sachsen
+876;Collmberg;51303974;13009597;314;Sachsen
+879;Cottbus (Flugplatz);517667;142833;68;Brandenburg
+880;Cottbus;51775938;14316799;687;Brandenburg
+888;Crimmitschau;50814879;1238205;269;Sachsen
+896;Dachwig;51077772;10861875;170;Thüringen
+948;Dessau;5185116;12251549;60;Sachsen-Anhalt
+953;Deuselbach;49761881;7054245;4805;Rheinland-Pfalz
+964;Dierfeld;50083239;689037;413;Rheinland-Pfalz
+965;Diesbar-Seußlitz;51240139;13416586;100;Sachsen
+991;Dippoldiswalde-Reinberg;50911626;13708675;3585;Sachsen
+1000;Doberan, Bad-Heiligendamm;54144194;11845364;3;Mecklenburg-Vorpommern
+1001;Doberlug-Kirchhain;51645071;13574714;966;Brandenburg
+1003;Döbeln;511333;131167;201;Sachsen
+1006;Dömitz;53139905;11254378;15;Mecklenburg-Vorpommern
+1047;Dresden (Mitte);51055663;13727444;112;Sachsen
+1048;Dresden-Klotzsche;51127797;13754251;2276;Sachsen
+1050;Dresden-Hosterwitz;51022068;13847006;112;Sachsen
+1051;Dresden-Strehlen;51024866;13775082;119;Sachsen
+1052;Möckern-Drewitz;52217417;12164088;80;Sachsen-Anhalt
+1072;Dürkheim, Bad;49471913;8192896;107;Rheinland-Pfalz
+1073;Dürkheim, Bad (Saline);49468611;8179684;115;Rheinland-Pfalz
+1074;Dürrenberg, Bad;51304321;12080985;103;Sachsen-Anhalt
+1091;Ebeleben;51280615;10736188;258;Thüringen
+1106;Eberswalde;52823862;13797888;45;Brandenburg
+1182;Eisleben-Helfta;51502894;11570458;146;Sachsen-Anhalt
+1188;Elgersburg;50704081;10857578;518;Thüringen
+1207;Elster, Bad-Sohl;5027046;12274171;5575;Sachsen
+1229;Ems, Bad;50332412;769745;90;Rheinland-Pfalz
+1270;Erfurt-Weimar;50982887;10960753;316;Thüringen
+1345;Feldberg;533346;13437131;92;Mecklenburg-Vorpommern
+1358;Fichtelberg;50428295;12953583;1213;Sachsen
+1410;Frankenhausen, Bad/Kyffhäuser;51351209;11095832;130;Thüringen
+1411;Birx/Rhön;5053092;10047947;747;Thüringen
+1426;Frankfurt/Oder;52339682;14507999;65;Brandenburg
+1428;Frankweiler;49227539;8058503;230;Rheinland-Pfalz
+1441;Freiberg;50926306;13271085;416;Sachsen
+1488;Friedrichsbrunn;5168837;11039436;523;Sachsen-Anhalt
+1513;Fuchskauten;50658775;8102688;653;Rheinland-Pfalz
+1544;Gardelegen;52512889;11394174;47;Sachsen-Anhalt
+1552;Gartz/Oder;53206624;14381687;13;Brandenburg
+1568;Gehlberg-Schmücke;50654886;10774291;916;Thüringen
+1583;Geisingberg;50771896;13773244;823;Sachsen
+1605;Genthin;52387511;12160174;35;Sachsen-Anhalt
+1612;Gera-Leumnitz;50881208;12128885;3107;Thüringen
+1617;Gernrode;51725866;11131721;210;Sachsen-Anhalt
+1684;Görlitz;51162129;14950606;2385;Sachsen
+1694;Goldberg;53605834;12103404;587;Mecklenburg-Vorpommern
+1709;Gottleuba, Bad;508496;139392;360;Sachsen
+1757;Greifswald;54096704;13405565;2;Mecklenburg-Vorpommern
+1759;Greifswalder Oie;5424373;13910203;116;Mecklenburg-Vorpommern
+1762;Greiz-Dölau;50624899;12177683;270;Thüringen
+1803;Groß Lüsewitz;54071364;12323764;345;Mecklenburg-Vorpommern
+1834;Grosser Inselsberg;50851862;10466534;913;Thüringen
+1869;Grünow;53315357;13933856;559;Brandenburg
+1890;Güstrow-Schabernack;537667;122167;30;Mecklenburg-Vorpommern
+1957;Halle-Kröllwitz;51513769;11949933;93;Sachsen-Anhalt
+1960;Halle (Stadt);51483099;11967099;102;Sachsen-Anhalt
+1964;Olsdorf;49944479;638211;328;Rheinland-Pfalz
+1972;Hamburg-Bergedorf;5347926;10241532;35;Hamburg
+1973;Hamburg-Botanischer Garten;53559849;9987371;14;Hamburg
+1975;Hamburg-Fuhlsbüttel;53633172;9988102;107;Hamburg
+1979;Hamburg-Kirchwerder;53421266;10146248;2;Hamburg
+1981;Hamburg-Neuwiedenthal;53477585;9895741;35;Hamburg
+1986;Hamburg-Reitbrook;53469861;10180441;1;Hamburg
+1990;Hamburg-Wandsbek;53585347;10129348;18;Hamburg
+2044;Harzgerode;51651967;11136645;404;Sachsen-Anhalt
+2053;Hasselfelde;51686769;10863062;461;Sachsen-Anhalt
+2160;Herrenhof;50844364;10690401;360;Thüringen
+2166;Herrnhut;510167;1475;344;Sachsen
+2167;Niederwörresbach;49767176;7335605;302;Rheinland-Pfalz
+2201;Hiddensee-Vitte;54574966;13104408;1;Mecklenburg-Vorpommern
+2211;Hilgenroth;50737016;7652531;295;Rheinland-Pfalz
+2223;Hindfeld;50367418;10568726;300;Thüringen
+2225;Hinterhermsdorf;509167;143667;385;Sachsen
+2226;Eisfeld-Waffenrod-Hinterrod;50470708;10910574;668;Thüringen
+2252;Bertsdorf-Hörnitz;50899151;14745622;2705;Sachsen
+2289;Hohennauen;526667;123333;28;Brandenburg
+2302;Hohlstedt-Kötschau;50963156;11484681;317;Thüringen
+2315;Holzdorf (Flugplatz);51765737;13166608;803;Brandenburg
+2318;Holzhausen a.d. Haide;50218225;7913319;397;Rheinland-Pfalz
+2331;Homburg/Saar;49327792;7353336;235;Saarland
+2354;Hoyerswerda Kr. Bautzen;51437925;14242557;118;Sachsen
+2362;Hümmerich;50565053;7484345;328;Rheinland-Pfalz
+2385;Idar-Oberstein;49692695;7326328;376;Rheinland-Pfalz
+2396;Ilsenburg;518667;106833;260;Sachsen-Anhalt
+2444;Jena (Sternwarte);50925126;11583023;1545;Thüringen
+2451;Jessen/Elster;51795372;12958342;77;Sachsen-Anhalt
+2475;Jüterbog;5199991;1310098;75;Brandenburg
+2486;Kaiserslautern;49426213;7755714;271;Rheinland-Pfalz
+2502;Heiligenstadt, Heilbad-Kalteneber;51317968;10134773;447;Thüringen
+2503;Kaltennordheim;50626586;10145485;487;Thüringen
+2506;Kamenz;512667;140833;270;Sachsen
+2578;Kirchdorf/Poel;53999513;11434142;14;Mecklenburg-Vorpommern
+2618;Kleiner Inselsberg;50845847;10480262;732;Thüringen
+2621;Kleinmachnow;52404457;13213431;42;Brandenburg
+2627;Schipkau-Klettwitz;51555433;13884528;128;Brandenburg
+2641;Klitzschen bei Torgau;51518528;12906488;904;Sachsen
+2657;Koblenz-Horchheim;50336911;7599165;85;Rheinland-Pfalz
+2701;Kösen, Bad;51132938;11725242;136;Sachsen-Anhalt
+2704;Köthen (Anhalt);51751087;12009351;764;Sachsen-Anhalt
+2790;Kusel-Fünfbirken;495592;7413395;296;Rheinland-Pfalz
+2794;Kyritz;52936248;12409335;402;Brandenburg
+2796;Laage (Flugplatz);53915595;12279013;41;Mecklenburg-Vorpommern
+2856;Langenlipsdorf;51917335;13087762;91;Brandenburg
+2857;Langensalza, Bad;51117333;10656802;175;Thüringen
+2878;Lauchstädt, Bad;5139092;11878575;1174;Sachsen-Anhalt
+2915;Lehesten/Thüringer Wald;504833;1145;640;Thüringen
+2925;Leinefelde;51393197;10312349;3559;Thüringen
+2928;Leipzig-Holzhausen;5131509;12446226;138;Sachsen
+2931;Leipzig-Mockau;51392013;12396236;128;Sachsen
+2932;Leipzig/Halle;51434711;12239585;131;Sachsen
+2951;Lenzen/Elbe;53100708;11486414;20;Brandenburg
+2963;Leunawerke;513167;120333;92;Sachsen-Anhalt
+2985;Lichtenhain-Mittelndorf;50938325;1420938;321;Sachsen
+3007;Limburgerhof;49411119;8397953;96;Rheinland-Pfalz
+3015;Lindenberg;52208489;14118032;977;Brandenburg
+3034;Lobenstein, Bad;50450456;1163497;4955;Thüringen
+3076;Ludwigshafen-Mundenheim;49460613;8424648;95;Rheinland-Pfalz
+3082;Lübben;519333;138833;56;Brandenburg
+3083;Lübben-Blumenfelde;51926694;13879715;565;Brandenburg
+3113;Luisenthal/Ohra;50766273;10720098;528;Thüringen
+3126;Magdeburg;52102896;11582674;79;Sachsen-Anhalt
+3137;Mainz-Lerchenberg (ZDF);49965563;8213884;195;Rheinland-Pfalz
+3155;Manderscheid-Sonnenhof;50101542;6800909;413;Rheinland-Pfalz
+3158;Manschnow;52546778;1454525;12;Brandenburg
+3160;Vatterode-Gräfenstuhl;51608381;1141388;240;Sachsen-Anhalt
+3166;Marienberg;50651055;13146876;639;Sachsen
+3167;Marienberg, Bad;50662061;7960264;5467;Rheinland-Pfalz
+3196;Marnitz;5332222;11932143;811;Mecklenburg-Vorpommern
+3204;Martinroda;50733481;10881516;429;Thüringen
+3212;Mayen;50324912;7230019;230;Rheinland-Pfalz
+3226;Aschersleben-Mehringen;51725946;11510942;107;Sachsen-Anhalt
+3231;Meiningen;50561131;10377137;450;Thüringen
+3234;Klipphausen-Garsebach;51129431;13432783;158;Sachsen
+3246;Mendig;503667;73167;181;Rheinland-Pfalz
+3289;Schmieritz-Weltwitz;50728119;11783769;356;Thüringen
+3340;Montabaur;50438264;7806121;265;Rheinland-Pfalz
+3370;Mühlhausen;51207621;1039564;300;Thüringen
+3376;Müncheberg;52517588;14123226;63;Brandenburg
+3426;Muskau, Bad;51565979;1470081;127;Sachsen
+3478;Neubrandenburg;53546774;13191364;81;Mecklenburg-Vorpommern
+3490;Neuenahr, Bad-Ahrweiler;50534561;7085337;111;Rheinland-Pfalz
+3509;Menz;53101974;13042072;78;Brandenburg
+3513;Neuhaus am Rennweg;50500253;1113446;845;Thüringen
+3545;Neunkirchen-Wellesweiler;49343983;7229738;236;Saarland
+3552;Neuruppin;52903695;12807143;384;Brandenburg
+3575;Neustadt/Weinstraße;49356963;8140495;163;Rheinland-Pfalz
+3576;Neustadt/Weinstraße (Heidehof);49347825;8182184;125;Rheinland-Pfalz
+3577;Neustrelitz;53358494;13050191;64;Mecklenburg-Vorpommern
+3595;Niederelbert;50410703;7808033;250;Rheinland-Pfalz
+3659;Nürburg;5033911;6950061;627;Rheinland-Pfalz
+3660;Nürburg-Barweiler;50360174;6869659;4852;Rheinland-Pfalz
+3694;Oberhof;50700481;10725598;810;Thüringen
+3788;Olbersdorf;50864596;14762795;305;Sachsen
+3811;Oschatz;5129598;1309283;150;Sachsen
+3818;Osterburg;527167;117333;29;Sachsen-Anhalt
+3821;Osterfeld;5108716;11929265;2443;Sachsen-Anhalt
+3825;Osterhof;49503306;7277315;338;Saarland
+3883;Pausa-Unterreichenau;50599901;11996611;442;Sachsen
+3903;Perl-Besch;49511404;6385744;175;Saarland
+3904;Perl-Nennig;49535353;6378874;152;Saarland
+3915;Petkus;51989253;13360777;145;Brandenburg
+3939;Pirmasens;49191191;75879;385;Rheinland-Pfalz
+3946;Plauen;50481832;12130043;3871;Sachsen
+3987;Potsdam;52381247;1306223;809;Brandenburg
+3988;Potsdam (Säkularstation);52382206;13062213;81;Brandenburg
+4024;Putbus;54364277;13477079;398;Mecklenburg-Vorpommern
+4032;Quedlinburg;51795344;11131995;142;Sachsen-Anhalt
+4036;Querfurt-Mühle Lodersleben;51389498;11541221;204;Sachsen-Anhalt
+4079;Rastenberg;51176531;11418287;200;Thüringen
+4149;Marienberg-Reitzenhain;50547719;13223839;7735;Sachsen
+4222;Rodewisch;50526312;12409051;464;Sachsen
+4271;Rostock-Warnemünde;54180279;12080806;48;Mecklenburg-Vorpommern
+4301;Kreuznach, Bad;49850173;7871018;102;Rheinland-Pfalz
+4323;Ruppertsecken;49646838;7883741;461;Rheinland-Pfalz
+4332;Saalfeld;5065629;113894;235;Thüringen
+4336;Saarbrücken-Ensheim;49212782;7107653;319;Saarland
+4339;Saarbrücken-Sankt Johann;49223137;7016753;193;Saarland
+4373;Salzwedel;52856828;11131857;29;Sachsen-Anhalt
+4396;Sankt Wendel-Hof;4946721;7203626;400;Saarland
+4397;Sankt Wendel-Urweiler;49502506;7202026;4002;Saarland
+4425;Schaumberg-Tholey;49486407;7028951;569;Saarland
+4445;Wernigerode-Schierke;51765838;1065328;609;Sachsen-Anhalt
+4464;Schleiz;50567906;11804085;5014;Thüringen
+4474;Schlossböckelheim;49796073;7758344;170;Rheinland-Pfalz
+4485;Schmalkalden, Kurort;50724999;10453882;296;Thüringen
+4489;Schmatzfeld;518833;107667;198;Sachsen-Anhalt
+4490;Schmelz-Hüttersdorf;49414918;6836007;223;Saarland
+4501;Schmücke;50654518;10769601;9376;Thüringen
+4505;Schnarrtanne-Vogelsgrün;504988;124534;650;Sachsen
+4508;Schneifelforsthaus;50296848;6419387;649;Rheinland-Pfalz
+4593;Schwanebeck;51963939;11120819;117;Sachsen-Anhalt
+4605;Schwarzburg;5064406;11193618;277;Thüringen
+4606;Schwarze Pumpe;515167;1435;116;Brandenburg
+4612;Schwarzenberg;50551312;12767798;418;Sachsen
+4625;Schwerin;53642425;11387095;588;Mecklenburg-Vorpommern
+4642;Seehausen;52891088;11729659;21;Sachsen-Anhalt
+4709;Simmern-Wahlbach;4999959;759812;445;Rheinland-Pfalz
+4748;Sondershausen;51369118;1088001;185;Thüringen
+4752;Sonneberg-Neufang;50374621;11182835;626;Thüringen
+4782;Spören-Prussendorf;51603987;12109275;87;Sachsen-Anhalt
+4878;Oberharz am Brocken-Stiege;51664645;10881071;504;Sachsen-Anhalt
+4939;Suderode, Bad;517333;111167;235;Sachsen-Anhalt
+4977;Tangermünde;52544678;11972377;45;Sachsen-Anhalt
+4997;Starkenberg-Tegkwitz;50977086;12341909;196;Thüringen
+5009;Teterow;53761035;12557375;33;Mecklenburg-Vorpommern
+5024;Möckern-Räckendorf;52208394;12032767;67;Sachsen-Anhalt
+5029;Tholey;49473721;7038522;3867;Saarland
+5039;Tiefenort;50842962;1016128;236;Thüringen
+5068;Torgau;515833;13;80;Sachsen
+5088;Trent;54533661;13246029;3;Mecklenburg-Vorpommern
+5097;Tribsees;54065427;12765454;95;Mecklenburg-Vorpommern
+5099;Trier-Zewen;49732632;6613147;1315;Rheinland-Pfalz
+5100;Trier-Petrisberg;49747891;6658305;2612;Rheinland-Pfalz
+5109;Trollenhagen;53599793;13303907;684;Mecklenburg-Vorpommern
+5142;Ueckermünde;53744455;14069809;11;Mecklenburg-Vorpommern
+5158;Ummendorf;52160112;11175857;1591;Sachsen-Anhalt
+5244;Völklingen-Stadt;49258133;6861176;220;Saarland
+5267;Wackersleben;52072226;11022232;86;Sachsen-Anhalt
+5282;Wahnsdorf bei Dresden;511197;136744;246;Sachsen
+5335;Waltershausen;50896285;1054834;352;Thüringen
+5349;Waren (Müritz);53519622;12665404;726;Mecklenburg-Vorpommern
+5419;Weimar;50975084;11307642;264;Thüringen
+5424;Weimar-Schöndorf;5101765;11354409;328;Thüringen
+5426;Weinbiet;49375801;8121233;5525;Rheinland-Pfalz
+5431;Weisen bei Wittenberge;530333;118;24;Sachsen-Anhalt
+5433;Weiskirchen/Saar;49553365;6811951;380;Saarland
+5442;Weißenfels;51200162;11915416;109;Sachsen-Anhalt
+5445;Weißensee-Ottenhausen;51212024;1099555;165;Thüringen
+5463;Wellmitz;52065358;14689773;58;Brandenburg
+5490;Wernigerode;5184544;10768627;2333;Sachsen-Anhalt
+5546;Wiesenburg;52120644;12458559;187;Brandenburg
+5624;Wismar;53902619;11425407;17;Mecklenburg-Vorpommern
+5629;Wittenberg;51889124;12644598;1045;Sachsen-Anhalt
+5642;Wittstock;531833;125167;72;Brandenburg
+5643;Wittstock-Rote Mühle;53186436;12494939;675;Brandenburg
+5663;Woldegk;53461787;136099;118;Mecklenburg-Vorpommern
+5681;Wolfstein/Pfalz;49581097;7623364;200;Rheinland-Pfalz
+5692;Worms;49605078;8365906;88;Rheinland-Pfalz
+5728;Wustrau-Ziethenhorst;52803856;12871432;35;Brandenburg
+5745;Zehdenick;52966344;13326752;51;Brandenburg
+5750;Zeitz;51031411;1214949;264;Sachsen-Anhalt
+5761;Zerbst;51964245;12099569;69;Sachsen-Anhalt
+5778;Zinnowitz;54080119;13898937;2;Mecklenburg-Vorpommern
+5779;Zinnwald-Georgenfeld;50731347;13751612;8766;Sachsen
+5797;Lichtentanne;5068786;12432937;3485;Sachsen
+5825;Berge;52619829;12786684;40;Brandenburg
+5871;Hahn;49946281;7264495;497;Rheinland-Pfalz
+5920;Neuwied;50448498;742749;91;Rheinland-Pfalz
+6086;Melchow-Schönholz;52778567;13758996;71;Brandenburg
+6095;Taubenheim-Seeligstadt;51083757;13448585;273;Sachsen
+6109;Grambow-Schwennenz;53383698;14372801;515;Mecklenburg-Vorpommern
+6110;Medow-Wussentin;538545;13494908;11;Mecklenburg-Vorpommern
+6129;Sohland/Spree;51059354;14426617;2905;Sachsen
+6170;Coschen;52019184;14725442;39;Brandenburg
+6186;Nastätten;50198862;7865117;268;Rheinland-Pfalz
+6199;Steinhagen-Negast;54248381;13041864;17;Mecklenburg-Vorpommern
+6217;Saarbrücken-Burbach;49240557;6935134;190;Saarland
+6265;Wusterwitz;52361279;12386733;36;Brandenburg
+6266;Huy-Pabstorf;52030421;10962603;112;Sachsen-Anhalt
+6272;Salzungen, Bad-Gräfen-Nitzendorf;50842611;10251823;283;Thüringen
+6273;Demker;52507485;11855089;36;Sachsen-Anhalt
+6305;Mühlhausen/Thüringen-Görmar;51206117;10497829;193;Thüringen
+6310;Karlshagen;54104896;13823906;1;Mecklenburg-Vorpommern
+6314;Nossen;51050698;13300254;306;Sachsen
+7244;Neuglobsow (HM);53142418;13031899;62;Brandenburg
+7321;Olbersleben;51150665;11332074;160;Thüringen
+7329;Treuen;505467;122863;465;Sachsen
+7343;Deutschneudorf-Brüderwiese;50619956;13481701;689;Sachsen
+7351;Feldberg/Mecklenburg;53317622;13417485;1154;Mecklenburg-Vorpommern
+7364;Jeßnitz;51681752;12305347;735;Sachsen-Anhalt
+7368;Eisenach;51000736;1036211;3119;Thüringen
+7389;Heckelberg;52746142;13842702;83;Brandenburg
+7393;Hoyerswerda;51449238;1425327;116;Sachsen
+7419;Langenwetzendorf-Göttendorf;50661008;12075595;3885;Thüringen
+7420;Naumburg/Saale-Kreipitzsch;5110439;11711157;246;Sachsen-Anhalt
+7428;Veilsdorf;5041672;10815607;397;Thüringen
+13711;Krölpa-Rockendorf;50681954;11515024;289;Thüringen
+14311;Hersdorf-Weißenseifen;50149977;655272;530;Rheinland-Pfalz
+15951;Pirmasens (Kläranlage);49212068;7588248;280;Rheinland-Pfalz
+15979;Sargenroth;49931057;7515279;426;Rheinland-Pfalz
+16085;Leherheide;5358738;860106;8;Bremen
+19607;Cämmerswalde-Rauschenbach;50695202;13497187;615;Sachsen
