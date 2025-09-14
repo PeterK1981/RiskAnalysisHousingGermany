@@ -1,6 +1,6 @@
 # Abschlussprojekt DSI 05/09/2025
 
-Beteiligte: Carla Novoa Sepultura, Katja Linder, Peter Keller
+Beteiligte: Carla Novoa Sepúlveda, Katja Linder, Peter Keller
 
 ## Thema: Modellierung Risiko Indidikator Wohnen unter Druck in Deutschland im Klimawandel
 
