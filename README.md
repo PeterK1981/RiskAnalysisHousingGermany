@@ -16,6 +16,11 @@ Das Risiko ist dann
 ```math
 RI = KEI \cdot VUL
 ```
+
+Details zur Modellierung und Datenquellen hier:
+
+[Modellierungsdetails - Beschreibung](Modellierung.pdf)
+
 Die resultierende Risikokarte auf Gemeinde-Ebene macht besonders exponierte Gebiete sichtbar. So ist Ostdeutschland großflächig durch Hitze und Dürre betroffen,
 aber auch durch großen Bestand von Altbauten, im Vergleich niedrigere Nettohaushaltseinkommen und hohen Anteil über 65 Jähriger, die durch Hitze besonders gefährdet sind.
 Im Oberrheingraben macht sich die geographische Lage bemerkbar. Steigende Hitzeeinfluss und Dürre betrifft dabei besonders die Pfalz.
@@ -27,14 +32,14 @@ Dazu definiert man LOW als Gebiet, wo der jeweilige Faktor unter seinem Median l
 ein Gebiet mit überdurschnittlicher Belastung durch Klima und sozialer/baulicher Vulnerabilität mit ca. 35% Wahrscheinlichkeit zum obersten Dezil der gefährdeten
 Gebiete gehört. Die folgende Karte illustiert dies.
 
-![Risiko-Index (Bivariater Choropleth)](Bivariate_classes_RI_q90_kontur.png)
+![Risiko-Index (Bivariater Choropleth)](Bivariate_classes_RI_q90_kontur_thmb.png)
 
 ---
 
 ## Skills
 
 ### Datenaufbereitung/Datenvorbereitung/Datenvisualisierung
-- Verarbeitung von Rasterdaten mit **Python** aus 4 GB Daten des DWD (HYRAS, ERA5) (Details in Modellierung.docx)
+- Verarbeitung von Rasterdaten mit **Python** aus 4 GB Daten des DWD (HYRAS, ERA5)
 - Mitteln der Daten über die Gemeinden Deutschlands via **GeoPandas**-Bibliothek anhand Geometriedaten des BKG
 - Auswahl relevanter Features aus den Daten des Mikrozensus und Deutschland-Atlas (**PowerQuery**, **Excel**)
 - Kartenerstellung und Export via GeoPandas in **Jupyter-Notebooks** unter Verwendung eines selbst erstellten **choropleth-pipeline** Pakets
